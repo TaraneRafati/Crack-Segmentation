@@ -67,4 +67,4 @@ The project is controlled by running `main.py` with a specified mode and a `conf
 
 ---
 
-*This project was developed for the Linear Algebra for Computer Vision course at KNTU (Spring 2025).*
+*This project was developed for the Computer Vision for Computer Science course at KNTU (Spring 2025).*
