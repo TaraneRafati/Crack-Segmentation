@@ -4,11 +4,13 @@
 
 This repository provides a complete deep learning pipeline for **semantic segmentation** of cracks in concrete or asphalt surfaces. The core of the project is a custom **U-Net** architecture implemented in PyTorch, designed to classify every pixel in an image as either crack or non-crack.
 
+
+🔗 **[Try the live demo](https://huggingface.co/spaces/taranerafati/Asphalt-Crack-Segmentation)**
+
 The project is structured into three main phases:
 1.  **Data Preparation** (cleanup, merging, splitting using COCO format).
 2.  **Model Training** (U-Net with transfer learning options).
 3.  **Inference** (evaluation and visualization of predictions).
-
 
 
 ---
